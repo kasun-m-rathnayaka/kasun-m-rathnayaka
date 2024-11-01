@@ -1,4 +1,4 @@
-![dfredg5-0a60e875-646e-4d6c-bb91-73086f012808](https://github.com/kasun-m-rathnayaka/kasun-m-rathnayaka/assets/145013325/b5592cae-5918-467f-98f9-71906c987041)
+![newbannerjs](https://github.com/user-attachments/assets/5b2121f4-5cdb-4a78-aab6-592438eb2cf4)
 
 <h1 align="center">Hi 👋, I'm Kasun Rathnayaka</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
