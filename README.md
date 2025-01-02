@@ -1,7 +1,7 @@
 ![newbannerjs](https://github.com/user-attachments/assets/5b2121f4-5cdb-4a78-aab6-592438eb2cf4)
 
 <h1 align="center">Hi 👋, I'm Kasun Rathnayaka</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">A passionate Full Stack Developer from Sri Lanka</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on AI and Machine Learning<br>👯 I’m looking to collaborate on CNN projects<br>💬 Ask me about Full Stack Development<br>
